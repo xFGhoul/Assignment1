@@ -5,5 +5,4 @@ public class Student extends Person {
         super(name, address, phone, email);
         Student.status = status;
     }
-
 }
